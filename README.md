@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/t5mcqlecgi05yhmt?svg=true)](https://ci.appveyor.com/project/Nikolay0110/oop-js)
+
+
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
