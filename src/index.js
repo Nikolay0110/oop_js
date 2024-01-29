@@ -8,10 +8,3 @@ import Magician from "./js/magician";
 import Daemon from "./js/daemon";
 import Undead from "./js/undead";
 import Zombie from "./js/zombie";
-
-
-const bowman = new Bowman('Sina');
-console.log(bowman);
-const zombie = new Zombie('Snork');
-bowman.damage(zombie.attack)
-console.log(bowman)
