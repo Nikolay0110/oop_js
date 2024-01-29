@@ -1,5 +1,4 @@
-/* eslint-disable no-unused-vars */
-// import './css/style.css';
+import './css/style.css';
 
 
 import Character from "./js/character";
